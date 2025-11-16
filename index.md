@@ -172,4 +172,4 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA]
 * PER Camera ready: June 30, 2025
 * Workshop date: June 13, 2025 -->
 
-## Moments at DuckAI 2025 Fall
+<!-- ## Moments at DuckAI 2025 Fall -->

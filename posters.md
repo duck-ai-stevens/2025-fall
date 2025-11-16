@@ -6,7 +6,7 @@ permalink: /posters/
 
 <!-- **Accepted Posters** -->
 
-1. **[From Diagnosis to Patient Experience: Evaluating Statistical Machine Learning and Deep Learning Models in Healthcare AI](/assets/patient-experience.pdf)**, Connor Phillips, Kaitlin Ciuba, Yogarajan Sivakumar [595B]
+<!-- 1. **[From Diagnosis to Patient Experience: Evaluating Statistical Machine Learning and Deep Learning Models in Healthcare AI](/assets/patient-experience.pdf)**, Connor Phillips, Kaitlin Ciuba, Yogarajan Sivakumar [595B]
 
 1. **[Adversarial Robustness of Traffic Sign Recognition: Evaluating FGSM Attack on Models](/assets/fgsm-attack.pdf)**, Yasin Hasanpoor, Jingxuan Zhu, Shotitouch Tuangcharoentip [595B]
 
@@ -54,4 +54,4 @@ permalink: /posters/
 
 1. **DC Microgrid Control Under Time-Varying ZIP Loads Using Online Learning**, Mohammad Javad Najafirad
 
-1. **Dynamic Soundscapes with Latent Diffusion Models**, Christian Templin
+1. **Dynamic Soundscapes with Latent Diffusion Models**, Christian Templin -->
