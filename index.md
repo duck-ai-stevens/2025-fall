@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 <script>
 function toggleContent(button) {
     const content = button.previousElementSibling;
@@ -45,15 +46,14 @@ function toggleContent(button) {
 
 Following the strong momentum and community engagement demonstrated during DuckAI 2025 Spring [https://duck-ai-stevens.github.io/2025-spring/], the 2nd iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025 Fall) continues to expand our research and educational mission. This one-day event is organized by the Center for Innovative Computing and Networked Systems (iCNS) and the Department of Electrical and Computer Engineering at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25. The event is open to the public with free registration.
 
-
 ## Event Details
 
-* Thursday, Dec 10, 2025
-* 9:00 a.m. – 4:30 p.m.
-* **Howe 409 (Bissinger)**, Stevens Institute of Technology
-    * The poster session will be at **the B12 lab** underneath the library
+- Thursday, Dec 10, 2025
+- 9:00 a.m. – 4:00 p.m.
+- **Howe 409 (Bissinger)**, Stevens Institute of Technology
+  - The poster session will be at **the B12 lab** underneath the library
 
-<!-- 
+<!--
 
 ## Agenda
 
@@ -69,8 +69,8 @@ Following the strong momentum and community engagement demonstrated during DuckA
 
 Registration link: [https://forms.gle/2A2kscme9qP74CBHA]
 
-
 ## Invited Speakers
+
 <!-- <div class="home" style="font-size: 1em;">
     <ul class="responsive-table" style="margin-left: 0; border-bottom: 0.1em solid whitesmoke;">
         <li class="table-row">
@@ -92,7 +92,7 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA]
                     He holds a Bachelor's degree in Biomedical Engineering from Johns Hopkins University. He is an avid marathoner and also plays the violin in the NYC Googler Orchestra.</p>
                 </div>
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
-            </div>  
+            </div>
         </li>
         <li class="table-row">
             <div class="col-12 col-md-12">
@@ -108,7 +108,7 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA]
                     <p><b>Short Bio: </b>Santosh Borse is an experienced software engineer with 20 years of expertise in designing, developing, and managing complex software systems. He currently works as a <b>Senior Research Engineer @ IBM Research</b>, where he focuses on preparing and processing data for training the IBM Granite series models. Throughout his career, Santosh has held roles ranging from Junior Developer to Architect, contributing to impactful projects across AI, NLP, IoT, cloud computing, and more. He is also a named inventor on several granted patents in emerging technologies. Driven by a passion for problem-solving and innovation, Santosh believes in <b>making the world a better place through software</b>—a principle that continues to guide his work every day.</p>
                 </div>
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
-            </div>  
+            </div>
         </li>
         <li class="table-row">
             <div class="col-12 col-md-12">
@@ -124,7 +124,7 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA]
                     <p><b>Short Bio: </b>Shirantha Welikala is currently an Assistant Professor in the Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, USA (joined Fall 2023). He received the B.Sc. degree in Electrical and Electronic Engineering from the University of Peradeniya, Peradeniya, Sri Lanka, in 2015 and the M.Sc. and the Ph.D. degrees in Systems Engineering from Boston University, Brookline, MA, USA, in 2019 and 2021, respectively. From 2015 to 2017, he was a Temporary Instructor/Research Assistant in the Department of Electrical and Electronic Engineering at the University of Peradeniya, Sri Lanka. From 2021 to 2023, he was a Postdoctoral Research Fellow in the Department of Electrical Engineering, University of Notre Dame, Notre Dame, IN, USA. His main research interests include control and optimization of cooperative multi-agent systems, control of networked systems, passivity-based control, control and topology co-design, machine-learning, robotics, and smart grid. He has received several awards, including the 2015 Ceylon Electricity Board Gold Medal, the 2019 and 2023 President's Awards for Scientific Research in Sri Lanka, the 2021 Outstanding Ph.D. Dissertation Award in Systems Engineering at Boston University, and the 2022 Best Paper Award at the 30th Mediterranean Conference on Control and Automation held in Athens, Greece. For more information, please visit <a href="http://www.shiranthawelikala.com">http://www.shiranthawelikala.com</a>.</p>
                 </div>
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
-            </div>  
+            </div>
         </li>
         <li class="table-row">
             <div class="col-12 col-md-12">
@@ -137,34 +137,34 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA]
                 <b>Data Engineering in Hedge Funds: Managing Data at Scale for Finance</b>
                 <div class="expandable-content collapsed">
                     <p>This talk highlights the role of data engineering in the fast-paced environment of hedge funds. It covers how engineers design and maintain scalable data pipelines, ensure data quality and integrity, and support a wide range of teams from research to compliance. Learn how modern data infrastructure enables better decision-making in the financial industry.</p>
-                    <p><b>Short Bio:</b> Zengye is a full stack quantitative engineer---frontend, backend, site reliability, distributed computing, model implementation. He previously worked at multiple hedge funds and is experienced with production systems.</p> 
+                    <p><b>Short Bio:</b> Zengye is a full stack quantitative engineer---frontend, backend, site reliability, distributed computing, model implementation. He previously worked at multiple hedge funds and is experienced with production systems.</p>
                 </div>
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
-            </div>  
+            </div>
         </li>
-        
+
     </ul>
 </div> -->
 
-
 ## Organizers:
 
-* [Hao Wang](https://intellisys.haow.us/haowang/) (ECE@Stevens Institute of Technology)
-* [Joseph Helsing](https://www.stevens.edu/profile/jhelsing) (ECE@Stevens Institute of Technology)
- 
+- [Hao Wang](https://intellisys.haow.us/haowang/) (ECE@Stevens Institute of Technology)
+- [Joseph Helsing](https://www.stevens.edu/profile/jhelsing) (ECE@Stevens Institute of Technology)
+
 ## Volunteers:
 
-* Hao (Lucas) Wang
-* [Rui Wei](https://me.waynetech.site/)
-* Qingyang Yu
-* Xuan Li 
+- Hao (Lucas) Wang
+- [Rui Wei](https://me.waynetech.site/)
+- Qingyang Yu
+- Xuan Li
 
-## Special Thanks 
-* Jessica Gruich (Office Manager @ ECE, Stevens)
-* Lisa Capestro (Academic Advisor)
-* Kevin Lu (Associate Chair for Undergraduate Education)
+## Special Thanks
 
-<!-- 
+- Jessica Gruich (Office Manager @ ECE, Stevens)
+- Lisa Capestro (Academic Advisor)
+- Kevin Lu (Associate Chair for Undergraduate Education)
+
+<!--
 **Important Dates:**
 * ~~Submission deadline: April 1, 2025~~
 * ~~Acceptance notification: April 15, 2025~~
