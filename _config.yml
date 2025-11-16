@@ -1,11 +1,11 @@
 # Site settings
-course_name: "DuckAI 2025"
-course_semester: "The 1st iCNS/ECE Symposium on AI Research and Innovations"
+course_name: "DuckAI 2025 Fall"
+course_semester: "The 2nd iCNS/ECE Symposium on AI Research and Innovations"
 
 baseurl: "/2025-fall" # the subpath of your site, e.g. /blog/
 url: "duck-ai-stevens.github.io" # the base hostname & protocol for your site
 
-schoolname: "The 1st iCNS/ECE Symposium on AI Research and Innovations"
+schoolname: "The 2nd iCNS/ECE Symposium on AI Research and Innovations"
 schoolurl: "https://www.sigmetrics.org/sigmetrics2025/"
 twitter_username:  
 
