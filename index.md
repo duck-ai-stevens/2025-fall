@@ -153,9 +153,9 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2ks
 
 ## Volunteers:
 
-- Hao (Lucas) Wang
 - [Rui Wei](https://me.waynetech.site/)
 - Qingyang Yu
+- Hao (Lucas) Wang
 - Xuan Li
 
 ## Special Thanks
