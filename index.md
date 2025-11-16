@@ -43,21 +43,21 @@ function toggleContent(button) {
 
 <!-- ![topic_banner](/_images/banner.jpg) -->
 
-The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one-day event organized by the Center for Innovative Computing and Networked Systems (iCNS) and the Department of Electrical and Computer Engineering at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments of AI techniques and applications. The event features two technical sessions with invited talks and one poster & demo session. Around 30 student teams will showcase their AI projects for Spring’25. This event is open to the public with free registration.
+Following the strong momentum and community engagement demonstrated during DuckAI 2025 Spring [https://duck-ai-stevens.github.io/2025-spring/], the 2nd iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025 Fall) continues to expand our research and educational mission. This one-day event is organized by the Center for Innovative Computing and Networked Systems (iCNS) and the Department of Electrical and Computer Engineering at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25. The event is open to the public with free registration.
 
 
 ## Event Details
 
-* Thursday, May 15, 2025
-* 8:30 a.m. – 3:00 p.m.
-* **Burchard 111**, Stevens Institute of Technology
+* Thursday, Dec 10, 2025
+* 9:00 a.m. – 4:00 p.m.
+* **Howe 409 (Bissinger)**, Stevens Institute of Technology
     * The poster session will be at **the B12 lab** underneath the library
 
 <!-- 
 
 ## Agenda
 
-* 8:30 AM - Check in
+* 9:00 AM - Check in
 * 9:15 AM - Opening Remarks by ECE Department Chair: Dr. Min Song
 * 9:30 AM - Invited Talk Session 1 - Host: Dr. Hao Wang
 * 10:20 AM - Coffee Break
@@ -67,11 +67,11 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
 * 2:30 PM - Award announcement
 * 3:00 PM - Adjourn -->
 
-<strike>Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7]</strike>
+Registration link: [https://forms.gle/2A2kscme9qP74CBHA]
 
 
 ## Invited Speakers
-<div class="home" style="font-size: 1em;">
+<!-- <div class="home" style="font-size: 1em;">
     <ul class="responsive-table" style="margin-left: 0; border-bottom: 0.1em solid whitesmoke;">
         <li class="table-row">
             <div class="col-12 col-md-12">
@@ -144,24 +144,23 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
         </li>
         
     </ul>
-</div>
+</div> -->
 
 
 ## Organizers:
 
-* [Shucheng Yu](https://www.stevens.edu/profile/syu19) (ECE@Stevens Institute of Technology)
 * [Hao Wang](https://intellisys.haow.us/haowang/) (ECE@Stevens Institute of Technology)
+* [Joseph Helsing](https://www.stevens.edu/profile/jhelsing) (ECE@Stevens Institute of Technology)
  
 ## Volunteers:
 
-* [Xiaochan Xue](https://xueshannon.github.io)
-* Saurabh Parkar
-* Rui Wei
+* Hao (Lucas) Wang
+* [Rui Wei](https://me.waynetech.site/)
 * Qingyang Yu
-* Zixun Xiong 
+* Xuan Li 
 
 ## Special Thanks 
-* James Manzella (Office Manager @ ECE, Stevens)
+* Jessica Gruich (Office Manager @ ECE, Stevens)
 * Lisa Capestro (Academic Advisor)
 * Kevin Lu (Associate Chair for Undergraduate Education)
 

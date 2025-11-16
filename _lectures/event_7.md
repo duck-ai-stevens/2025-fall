@@ -1,6 +1,6 @@
 ---
 type: lecture
-start_time: "14:30"
-end_time: "15:00"
+start_time: "16:00"
+end_time: "16:30"
 title: "Award announcement"
 ---
