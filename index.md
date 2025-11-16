@@ -49,7 +49,7 @@ Following the strong momentum and community engagement demonstrated during DuckA
 ## Event Details
 
 * Thursday, Dec 10, 2025
-* 9:00 a.m. – 4:00 p.m.
+* 9:00 a.m. – 4:30 p.m.
 * **Howe 409 (Bissinger)**, Stevens Institute of Technology
     * The poster session will be at **the B12 lab** underneath the library
 
