@@ -44,7 +44,7 @@ function toggleContent(button) {
 
 <!-- ![topic_banner](/_images/banner.jpg) -->
 
-Following the strong momentum and community engagement demonstrated during DuckAI 2025 Spring [https://duck-ai-stevens.github.io/2025-spring/], the 2nd iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025 Fall) continues to expand our research and educational mission. This one-day event is organized by the Center for Innovative Computing and Networked Systems (iCNS) and the Department of Electrical and Computer Engineering at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25. The event is open to the public with free registration.
+Following the strong momentum and community engagement demonstrated during [DuckAI 2025 Spring](https://duck-ai-stevens.github.io/2025-spring/), the 2nd iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025 Fall) continues to expand our research and educational mission. This one-day event is organized by the Center for Innovative Computing and Networked Systems (iCNS) and the Department of Electrical and Computer Engineering at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25. The event is open to the public with free registration.
 
 ## Event Details
 
@@ -67,7 +67,7 @@ Following the strong momentum and community engagement demonstrated during DuckA
 * 2:30 PM - Award announcement
 * 3:00 PM - Adjourn -->
 
-Registration link: [https://forms.gle/2A2kscme9qP74CBHA]
+Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2kscme9qP74CBHA)
 
 ## Invited Speakers
 
