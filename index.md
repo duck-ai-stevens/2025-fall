@@ -160,6 +160,7 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2ks
 
 ## Special Thanks
 
+- Min Song (Department Chair)
 - Jessica Gruich (Office Manager @ ECE, Stevens)
 - Lisa Capestro (Academic Advisor)
 - Kevin Lu (Associate Chair for Undergraduate Education)
