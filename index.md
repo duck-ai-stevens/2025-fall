@@ -52,6 +52,7 @@ Following the strong momentum and community engagement demonstrated during [Duck
 - 9:00 a.m. – 4:00 p.m.
 - Morning session (talk session): **Howe 409 (Bissinger)**
 - Afternoon session (poster session): **Library B-12**
+
 <!--
 
 ## Agenda
