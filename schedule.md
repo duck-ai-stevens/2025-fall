@@ -1,5 +1,5 @@
 ---
 layout: schedule
-title: Schedule
-permalink: /schedule/
+title: Agenda
+permalink: /agenda/
 ---
