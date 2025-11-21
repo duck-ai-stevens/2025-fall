@@ -7,11 +7,11 @@ url: "duck-ai-stevens.github.io" # the base hostname & protocol for your site
 
 schoolname: "The 2nd iCNS/ECE Symposium on AI Research and Innovations"
 schoolurl: "https://www.sigmetrics.org/sigmetrics2025/"
-twitter_username:  
+twitter_username:
 
 address: |
-    DuckAI 2025
-    DuckAI 2025 | ECE/iCNS | Stevens Institute of Technology
+  DuckAI 2025
+  DuckAI 2025 | iCNS/ECE | Stevens Institute of Technology
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -25,22 +25,21 @@ markdown: kramdown
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
-include: ['_images', '_css']
-exclude: ['develop', 'vendor']
+include: ["_images", "_css"]
+exclude: ["develop", "vendor"]
 
 dateformat: "%m/%d/%Y"
 
 future: true
 collections:
-    events:
-        output: true
-    lectures:
-        output: true
-    assignments:
-        output: true
-    announcements:
-        output: false
-
+  events:
+    output: true
+  lectures:
+    output: true
+  assignments:
+    output: true
+  announcements:
+    output: false
 
 defaults:
   - scope:

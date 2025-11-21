@@ -46,7 +46,7 @@ function toggleContent(button) {
 
 Following the strong momentum and community engagement demonstrated during [DuckAI 2025 Spring](https://duck-ai-stevens.github.io/2025-spring/), the 2nd iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025 Fall), scheduled on **December 10th 2025**, continues to expand our research and educational mission. This one-day event is organized by the [Center for Innovative Computing and Networked Systems (iCNS)](https://www.stevens.edu/icns-center-for-innovative-computing-and-networked-systems) and the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25. The event is open to the public with free registration.
 
-## Event Details
+## Event Agenda
 
 - Schedule on **Wednesday, December 10, 2025**
 - 9:00 a.m. – 4:00 p.m.
@@ -148,11 +148,11 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2ks
 
 ## Organizers:
 
-- [Hao Wang](https://intellisys.haow.us/haowang/) (ECE@Stevens Institute of Technology)
-- [Joseph Helsing](https://www.stevens.edu/profile/jhelsing) (ECE@Stevens Institute of Technology)
-- [Min Song](https://www.stevens.edu/profile/msong6) (ECE Department Chair)
-- Jessica Gruich (Office Manager @ ECE, Stevens)
-- [Kevin Lu](https://www.stevens.edu/profile/klu2) (Associate Chair for Undergraduate Education)
+- [Hao Wang](https://intellisys.haow.us/haowang/) 
+- [Joseph Helsing](https://www.stevens.edu/profile/jhelsing) 
+- [Min Song](https://www.stevens.edu/profile/msong6) 
+- Jessica Gruich 
+- [Kevin Lu](https://www.stevens.edu/profile/klu2) 
 
 ## Volunteers:
 
