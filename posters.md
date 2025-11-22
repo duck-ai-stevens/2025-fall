@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accepted Posters
+title: Elite Posters
 permalink: /posters/
 ---
 
@@ -14,7 +14,7 @@ permalink: /posters/
 
 4. **On the Compatibility of Adversarial Training and Sparse Training in Vision Transformers**, Jiawang Xu, Zhenting Hu, Haihan Zhang
 
-5. **ACCELERATING MOE-BASED LLM SERVING WITH SERVERLESS EXPERTS**, Hao Wang, Renming Zhang
+5. **Accelerating MOE-based LLM Serving with Serverless Experts**, Hao Wang, Renming Zhang
 
 6. **Music Similarity Searching via ML Transformers**, Randeep Chahal, Lohith Mula, Ishaan Bhalodia, Joy Khera
 

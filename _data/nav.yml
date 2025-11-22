@@ -16,7 +16,7 @@ items:
 #   icon_class: fas fa-user-graduate
 
 - url: /posters/
-  name: Accepted Posters
+  name: Elite Posters
   icon_class: fa fa-upload
 
 # - url: /accepted/
