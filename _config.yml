@@ -1,6 +1,6 @@
 # Site settings
 course_name: "DuckAI 2025 Fall"
-course_semester: "The 2nd iCNS/ECE Symposium on AI Research and Innovations"
+course_semester: ""
 
 baseurl: "/2025-fall" # the subpath of your site, e.g. /blog/
 url: "duck-ai-stevens.github.io" # the base hostname & protocol for your site

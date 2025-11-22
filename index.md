@@ -53,8 +53,6 @@ Following the strong momentum and community engagement demonstrated during [Duck
 - Morning session (talk session): **Howe 409 (Bissinger)**
 - Afternoon session (poster session): **Library B-12** -->
 
-# TODO add QR code for registration
-
 <!--
 
 ## Agenda
@@ -70,6 +68,9 @@ Following the strong momentum and community engagement demonstrated during [Duck
 - 3:00 PM - Adjourn -->
 
 Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2kscme9qP74CBHA)
+
+You can also register by scanning the QR code:
+![QR code](_images/qr-code.svg)
 
 ## Invited Speakers
 
