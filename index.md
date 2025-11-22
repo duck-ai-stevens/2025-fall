@@ -70,7 +70,8 @@ Following the strong momentum and community engagement demonstrated during [Duck
 Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2kscme9qP74CBHA)
 
 You can also register by scanning the QR code:
-![QR code](_images/qr-code.svg)
+
+<img src="_images/qr-code.svg" alt="QR code" style="width: 200px; max-width: 100%; display: block; margin: 1em 0;" />
 
 ## Invited Speakers
 
