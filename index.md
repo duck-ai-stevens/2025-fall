@@ -71,7 +71,7 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2ks
 
 You can also register by scanning the QR code:
 
-<img src="_images/adobe-express-qr-code.svg" alt="QR code" style="width: 200px; max-width: 100%; display: block; margin: 1em 0;" />
+<img src="_images/adobe-express-qr-code.svg" alt="QR code" style="width: 250px; max-width: 100%; display: block; margin: 1em 0; image-rendering: crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: pixelated;" />
 
 ## Invited Speakers
 
