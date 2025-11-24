@@ -24,21 +24,21 @@ permalink: /posters/
 
 9. **Implementation and Evaluation of AI-Generated Image Detection Systems**, Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan
 
-10. **TBD**, Drishti Parekh, Eden Charles, Meetkumar Gajera
+10. **DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition**, Drishti Parekh, Eden Charles, Meetkumar Gajera
 
 11. **AISheild: A Preprocessing Defence Layer for Detecting Manipulated Inputs**, Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans
 
-12. **TBD**, Keval Sompura, Max Tuscano, Paras Jadhav
+12. **Mitigating Data Poisoning: Detecting and Removing Malicious Outliers**, Keval Sompura, Max Tuscano, Paras Jadhav
 
 13. **Multi-Teacher Distillation for Whisper Using a Unified CNN-Transformer Student Encoder**, Guo Zhonghao, Li Huaiyu, Ma Shanming
 
-14. **(Title Not Provided)**, Rishi Patel, Malvi Patel, Rishika Pilli, Ishbat Mahmud
+14. **Statistical learning v.s. Deep learning for Breast Cancer Detection**, Rishi Patel, Malvi Patel, Rishika Pilli, Ishbat Mahmud
 
 15. **NutriVision+ AI-Powered Food Recognition & Nutrition Estimation**, Siddhant Rajhans, Madhura Girish, Gauthami Nonavinakere Prakash, Abhijith Viswanathan
 
 16. **Distilling LLMs into Small Models for Medical Reasoning**, Congcong Xu, Shoaib Ahmed, Anil Telaprolu
 
-17. **Earthquake Detection**, Karthikeya Vengala
+17. **Real-Time Earthquake Detection using CNN + LSTM**, Karthikeya Vengala
 
 18. **Financial Default Prediction using ML Explainability**, Dr. Hong Man
 
