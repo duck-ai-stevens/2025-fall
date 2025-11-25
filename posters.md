@@ -40,7 +40,7 @@ permalink: /posters/
 
 17. **Real-Time Earthquake Detection using CNN + LSTM**, Karthikeya Vengala
 
-18. **Financial Default Prediction using ML Explainability**, Dr. Hong Man
+18. **Financial Default Prediction using ML Explainability**, Anandha Ragaven Ravi
 
 19. **LLM Powered Agentic Systems and Applications**, Yupeng Cao
 
