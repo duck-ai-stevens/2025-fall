@@ -69,3 +69,7 @@ permalink: /posters/
 31. **Automated Tower Defense: Using Reinforcement Learning to Complete Bloons Tower Defense**, Jack Griffith, Christopher Alessandri, Sahar Vacnich
 
 32. **Efficient AI for Maritime Object Detection**, Bilal Anwar, Liam Hua, Malik Tragna
+
+33. **Can Phonetics Predict Grammar? A Cross-Linguistic Machine Learning Study**, Tirth Joshi
+
+34. **Hybrid CNN architecture integrating InceptionV3 and MobileNetV3 for brain tumour detection**, Puspita Chowdhury
