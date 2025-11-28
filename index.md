@@ -71,7 +71,7 @@ Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2ks
 
 You can also register by scanning the QR code:
 
-<img src="_images/qr-code-3.svg" alt="QR code" style="width: 200px; max-width: 100%; display: block; margin: 1em 0;" />
+<img src="_images/qr-code.svg" alt="QR code" style="width: 200px; max-width: 100%; display: block; margin: 1em 0;" />
 
 ## Invited Speakers
 
@@ -80,11 +80,11 @@ You can also register by scanning the QR code:
         <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
-                    <img src="_images/YulongCao.png" class="image--cover">
+                    <img src="_images/YulongCao.jpg" class="image--cover">
                 </div>
             </div>
             <div class="col-12 col-md-12">
-                <p><b><a href="">YulongCao</a></b> | NVIDIA </p>
+                <p><b><a href="https://research.nvidia.com/person/yulong-cao">Yulong Cao</a></b> | NVIDIA </p>
                 <b>Towards Safe and Human-aligned Autonomous Driving</b>
                 <div class="expandable-content collapsed">
                     <p>Ensuring the security and safety of autonomous driving systems is a critical challenge due to the inherent safety risks. Building safe and human-aligned autonomous driving systems in real-world scenarios remains unresolved due to the complex and varied nature of driving behaviors and semantics. In this talk, I will present recent research efforts aimed at rethinking the testing of AV systems. The discussion will focus on two key areas: 1) modeling diverse behaviors using advanced traffic models, and 2) leveraging foundation models to enhance simulation capabilities and accelerate the testing process.</p>
