@@ -93,6 +93,22 @@ You can also register by scanning the QR code:
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
             </div>
         </li>
+                <li class="table-row">
+            <div class="col-12 col-md-12">
+                <div class="image--cover-container">
+                    <img src="_images/YulongCao.jpg" class="image--cover">
+                </div>
+            </div>
+            <div class="col-12 col-md-12">
+                <p><b><a href="https://derek.ma/">Mingyu Derek Ma</a></b> | Prescient Design, Genentech </p>
+                <b>Elevating Large Language Models to Expert Intelligence</b>
+                <div class="expandable-content collapsed">
+                    <p>Large Language Models (LLMs) have been applied to expert domains and scientific contexts, such as clinical diagnosis and drug discovery. However, the generalizability that characterizes LLMs in the general domain does not readily translate to scientific and expert tasks. Unlike general natural language tasks, scientific data is densely packed, homogeneous, and less self-explanatory. Moreover, expert-level tasks, such as those performed by physicians, engineers, or scientists, require deep domain knowledge, intuitive reasoning, and multi-step planning, refined through years of specialized training. In this talk, I will first discuss capturing implicit expert intuition for individual decision-making, using clinical diagnosis prediction as a case study. I will then extend the focus to compositional, project-level reasoning and automation, highlighting the development of LLM agents for scientific discovery.</p>
+                    <p><b>Short Bio:</b> Mingyu Derek Ma is a Senior Machine Learning Scientist at Prescient Design, Genentech (Roche), where he leads the development of agentic intelligence and automation platforms for drug discovery and contributes to training scientific large language models. His work focuses on the architecture, training, and agentic use of generative language models inspired by and applied to clinical, medical, and scientific scenarios. His research has been recognized as one of the top 15 most-cited papers at NAACL 2024 and has been published at leading AI conferences like ACL, AAAI, and NeurIPS. He obtained his PhD in Computer Science from UCLA and received the J.P. Morgan Chase AI PhD Fellowship and Amazon Fellowship.</p>
+                </div>
+                <button class="expand-btn" onclick="toggleContent(this)">More</button>
+            </div>
+        </li>
     </ul>
 </div>
 
