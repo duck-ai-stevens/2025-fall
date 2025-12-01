@@ -96,7 +96,7 @@ You can also register by scanning the QR code:
                 <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
-                    <img src="_images/YulongCao.jpg" class="image--cover">
+                    <img src="_images/MingyuDerekMa.jpg" class="image--cover">
                 </div>
             </div>
             <div class="col-12 col-md-12">
