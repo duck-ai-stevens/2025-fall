@@ -80,6 +80,22 @@ You can also register by scanning the QR code:
         <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
+                    <img src="_images/SoumitraSiddharthJ.png" class="image--cover">
+                </div>
+            </div>
+            <div class="col-12 col-md-12">
+                <p><b><a href="https://www.linkedin.com/in/soumitraj/">Soumitra Siddharth J.</a></b> | Machine Learning, Apple </p>
+                <b>ML Systems & Complexities of Modern Enterprise ML Platforms</b>
+                <div class="expandable-content collapsed">
+                    <p>Majority of ML projects stall at production stage of model development life cycle, they can fail because of many reasons such as : inadequate data pipelines, operational complexities, feature management challenges, model decay, or organizational misalignment between data science and engineering teams. This talk explores ML Platform foundations for enterprise systems, covering feature engineering pipelines, model serving architectures, experiment tracking, MLOps frameworks, production deployment patterns, and organizational challenges in scaling ML across organizations.</p>
+                    <p><b>Short Bio:</b> Soumitra is a currently working as a Machine Learning Manager at Apple, where he is leading machine learning engineers and software developers to build the Machine Learning Platform at Apple Ads. His interests lie at the intersection of distributed computing, big data processing, artificial intelligence and machine learning. He is currently pursuing MBA from University of Illinois, Urbana Champaign and holds M.S. in Computer Engineering from University of Florida, Gainesville. Linkedin : https://www.linkedin.com/in/soumitraj/</p>
+                </div>
+                <button class="expand-btn" onclick="toggleContent(this)">More</button>
+            </div>
+        </li>
+        <li class="table-row">
+            <div class="col-12 col-md-12">
+                <div class="image--cover-container">
                     <img src="_images/YulongCao.jpg" class="image--cover">
                 </div>
             </div>
@@ -93,7 +109,7 @@ You can also register by scanning the QR code:
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
             </div>
         </li>
-                <li class="table-row">
+        <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
                     <img src="_images/MingyuDerekMa.jpg" class="image--cover">
