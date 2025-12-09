@@ -79,22 +79,27 @@ You can also register by scanning the QR code:
 
 <div class="home" style="font-size: 1em;">
     <ul class="responsive-table" style="margin-left: 0; border-bottom: 0.1em solid whitesmoke;">
-        <!-- <li class="table-row">
+        <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
-                    <img src="_images/SoumitraSiddharthJ.png" class="image--cover">
+                    <img src="_images/TianhaoWu.png" class="image--cover">
+                </div>
+                <div class="image--cover-container">
+                    <img src="_images/YingchaoZhang.png" class="image--cover">
                 </div>
             </div>
             <div class="col-12 col-md-12">
                 <p><b><a href="https://www.linkedin.com/in/soumitraj/">Soumitra Siddharth J.</a></b> | Machine Learning, Apple </p>
-                <b>ML Systems & Complexities of Modern Enterprise ML Platforms</b>
+                <b>Open-Source AI: Data All-in-One</b>
                 <div class="expandable-content collapsed">
-                    <p>Majority of ML projects stall at production stage of model development life cycle, they can fail because of many reasons such as : inadequate data pipelines, operational complexities, feature management challenges, model decay, or organizational misalignment between data science and engineering teams. This talk explores ML Platform foundations for enterprise systems, covering feature engineering pipelines, model serving architectures, experiment tracking, MLOps frameworks, production deployment patterns, and organizational challenges in scaling ML across organizations.</p>
-                    <p><b>Short Bio:</b> Soumitra is a currently working as a Machine Learning Manager at Apple, where he is leading machine learning engineers and software developers to build the Machine Learning Platform at Apple Ads. His interests lie at the intersection of distributed computing, big data processing, artificial intelligence and machine learning. He is currently pursuing MBA from University of Illinois, Urbana Champaign and holds M.S. in Computer Engineering from University of Florida, Gainesville. Linkedin : https://www.linkedin.com/in/soumitraj/</p>
+                    <p>In this talk, Dr. Tianhao Wu, founder and CEO of opAIda, presents a practical and scalable strategy for unlocking business ROI through a Data All-in-One architecture powered by open-source AI. The approach emphasizes affordability, data ownership, and operational control by combining open-source LLMs with low-cost, high-performance hardware.</p>
+                    <p>Dr. Wu introduces the Unified Data Agent (UDA)—a customizable AI agent designed to eliminate the pervasive challenge of enterprise data silos. UDA unifies disconnected data sources such as email, chat, cloud drives, and databases without requiring any manual work. By learning directly from real human actions and institutional processes, the system automates complex workflows including RFI responses, event operations, task prioritization and cross-team coordination. The result is a continuously improving AI ecosystem where organizational knowledge is preserved, searchable, and actionable through semantic retrieval. This Data All-in-One framework demonstrates how open-source AI can deliver immediate efficiency gains while laying the foundation for long-term digital transformation.</p>
+                    <p><b>Short Bio:</b> Dr. Tianhao Wu is a trailblazer in artificial intelligence and a visionary leader with over 24 years of experience transforming complex business challenges into scalable AI solutions. Before co-founding opAida.ai, he founded AYR, Inc., where he pioneered the Singularity AI platform. In 2023, following a rigorous two-year evaluation of more than 50 vendors—including Microsoft and Google—his AI technology was selected exclusively by the U.S. Internal Revenue Service to automate all paper-filed tax returns nationwide. A hands-on innovator, Dr. Wu has delivered over 200 machine learning use cases across government and highly regulated industries, with solutions powering platforms for the U.S. National Institute of Justice, Lockheed Martin, and WorkFusion. He holds a Ph.D. in Machine Learning from Lehigh University and a B.Eng. in Computer Science from Peking University, with four granted patents and three pending. His early work building AI-powered search technology at Ask.com further solidifies his reputation as a pioneering force in enterprise AI.</p>
+                    <p>Dr. Yingchao Zhang, widely known as “Dr. YZ,” is a highly respected technology executive with over two decades of experience spanning system administration, cybersecurity, software engineering, and AI innovation. A nuclear physicist by training, he made a bold pivot into tech in 1997 and has since led transformative initiatives across startups, research institutions, and enterprise environments—including key roles at NetScout serving Fortune 500 clients. He holds a Ph.D. in Nuclear Physics from Stony Brook University and a B.Sc. from the University of Science and Technology of China. In recognition of his leadership, Dr. YZ was named one of the Outstanding 50 Asian Americans in Business in 2023 and appointed in 2025 by New Jersey Governor Phil Murphy to the Board of Trustees of Thomas Edison State University. At opAida.ai, he brings strategic vision, deep technical expertise, and operational excellence to the company’s mission of delivering secure, scalable AI solutions.</p>
                 </div>
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
             </div>
-        </li> -->
+        </li>
                 <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
