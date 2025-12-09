@@ -4,6 +4,10 @@ title: Elite Posters
 permalink: /posters/
 ---
 
+<div style="background: linear-gradient(135deg, #ff6b6b, #ffa500); color: white; padding: 15px 20px; border-radius: 8px; margin-bottom: 20px; text-align: center;">
+  <strong>Important:</strong> Please bring your own HDMI adapter if your computer does not have an HDMI port.
+</div>
+
 <!-- **Accepted Posters** -->
 
 1. **Traffic Optimization through Collective Intelligence**, Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso

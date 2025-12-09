@@ -89,7 +89,7 @@ You can also register by scanning the QR code:
                 </div>
             </div>
             <div class="col-12 col-md-12">
-                <p><b><a href="https://www.linkedin.com/in/soumitraj/">Soumitra Siddharth J.</a></b> | Machine Learning, Apple </p>
+                <p><b>Tianhao Wu and Yingchao Zhang</b> | opAIda, Inc.</p>
                 <b>Open-Source AI: Data All-in-One</b>
                 <div class="expandable-content collapsed">
                     <p>In this talk, Dr. Tianhao Wu, founder and CEO of opAIda, presents a practical and scalable strategy for unlocking business ROI through a Data All-in-One architecture powered by open-source AI. The approach emphasizes affordability, data ownership, and operational control by combining open-source LLMs with low-cost, high-performance hardware.</p>
