@@ -48,9 +48,30 @@ Following the strong momentum and community engagement demonstrated during [Duck
 
 This one-day event is organized by the [Center for Innovative Computing and Networked Systems (iCNS)](https://www.stevens.edu/icns-center-for-innovative-computing-and-networked-systems) and the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25. The event is open to the public with free registration.
 
-<div style="background: linear-gradient(135deg, #ff6b6b, #ffa500); color: white; padding: 15px 20px; border-radius: 8px; margin-bottom: 20px; text-align: center;">
-  If you are unable to attend in person, please feel free to join the meeting remotely using this Zoom link: <a href="https://stevens.zoom.us/s/95279443855">https://stevens.zoom.us/s/95279443855</a>
+<div style="background: linear-gradient(135deg, #ff6b6b, #ffa500); 
+            color: white; 
+            padding: 15px 20px; 
+            border-radius: 8px; 
+            margin-bottom: 20px; 
+            text-align: center;
+            font-family: Arial, sans-serif;">
+
+  <p style="margin: 0 0 8px; font-size: 16px; line-height: 1.5;">
+    If you are unable to attend in person, you can join the meeting online via Zoom:
+  </p>
+
+  <a href="https://stevens.zoom.us/s/95279443855"
+     style="display: inline-block; 
+            margin-top: 4px; 
+            font-size: 16px; 
+            font-weight: bold; 
+            text-decoration: underline; 
+            color: #ffffff;">
+    Join Zoom Meeting
+  </a>
+
 </div>
+
 
 <!-- ## Event Agenda
 
