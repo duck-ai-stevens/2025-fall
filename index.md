@@ -46,7 +46,9 @@ function toggleContent(button) {
 
 Following the strong momentum and community engagement demonstrated during [DuckAI 2025 Spring](https://duck-ai-stevens.github.io/2025-spring/), the 2nd iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025 Fall), scheduled on **December 10th 2025**, continues to expand our research and educational mission. The invited talks will be held in **Howe 409 (Bissinger)**, and the poster session will take place in **Library B12**.
 
-This one-day event is organized by the [Center for Innovative Computing and Networked Systems (iCNS)](https://www.stevens.edu/icns-center-for-innovative-computing-and-networked-systems) and the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25. The event is open to the public with free registration.
+This one-day event is organized by the [Center for Innovative Computing and Networked Systems (iCNS)](https://www.stevens.edu/icns-center-for-innovative-computing-and-networked-systems) and the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25.
+
+<!-- 
 
 <!-- <div style="background: linear-gradient(135deg, #ff6b6b, #ffa500); 
             color: white; 
@@ -70,7 +72,7 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
     Join Zoom Meeting
   </a>
 
-</div> -->
+</div>
 
 
 <!-- ## Event Agenda
@@ -96,7 +98,7 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
 
 <!-- Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2kscme9qP74CBHA)
 
-You can also register by scanning the QR code:
+<!--You can also register by scanning the QR code:
 
 <img src="_images/qr-code.svg" alt="QR code" style="width: 200px; max-width: 100%; display: block; margin: 1em 0;" /> -->
 
