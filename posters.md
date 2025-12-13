@@ -14,23 +14,23 @@ permalink: /posters/
 
 2. **Efficient AI: Maximizing Throughput Without Diminishing Accuracy in Real-time In-Situ Computer Vision**, Andre Colon, Khushi Pai, Aash Jatin Shah
 
-3. **Statistical Learning vs Deep Learning in Financial Forecasting**, Katrina Kling, Neha Sridhara, Sirisha Manjunathan
+3. **[Statistical Learning vs Deep Learning in Financial Forecasting](/assets/posters/3.pdf)**, Katrina Kling, Neha Sridhara, Sirisha Manjunathan
 
 4. **On the Compatibility of Adversarial Training and Sparse Training in Vision Transformers**, Jiawang Xu, Zhenting Hu, Haihan Zhang
 
-5. **Accelerating MOE-based LLM Serving with Serverless Experts**, Hao Wang, Renming Zhang
+5. **[Accelerating MOE-based LLM Serving with Serverless Experts](/assets/posters/5.pdf)**, Hao Wang, Renming Zhang
 
 6. **Music Similarity Searching via ML Transformers**, Randeep Chahal, Lohith Mula, Ishaan Bhalodia, Joy Khera
 
 7. **Transformer Evaluation for Blackbox Data Security**, Matthew Werner, Michael Moschello, Daniel Storms
 
-8. **CerebroSense (Stroke Detection)**, Harsh Adivrekar, Arshi Amrishkumar Patel, Shreyash Wakode
+8. **[CelebroSense (Stroke Detection)](/assets/posters/8.pdf)**, Harsh Adivrekar, Arshi Amrishkumar Patel, Shreyash Wakode
 
-9. **Implementation and Evaluation of AI-Generated Image Detection Systems**, Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan
+9. **[Implementation and Evaluation of AI-Generated Image Detection Systems](/assets/posters/9.pdf)**, Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan
 
-10. **DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition**, Drishti Parekh, Eden Charles, Meetkumar Gajera
+10. **[DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition](/assets/posters/10.pdf)**, Drishti Parekh, Eden Charles, Meetkumar Gajera
 
-11. **AISheild: A Preprocessing Defence Layer for Detecting Manipulated Inputs**, Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans
+11. **[AIShield: A Preprocessing Defence Layer for Detecting Manipulated Inputs](/assets/posters/11.pdf)**, Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans
 
 12. **Mitigating Data Poisoning: Detecting and Removing Malicious Outliers**, Keval Sompura, Max Tuscano, Paras Jadhav
 
@@ -38,11 +38,11 @@ permalink: /posters/
 
 14. **Statistical learning v.s. Deep learning for Breast Cancer Detection**, Rishi Patel, Malvi Patel, Rishika Pilli, Ishbat Mahmud
 
-15. **NutriVision+ AI-Powered Food Recognition & Nutrition Estimation**, Siddhant Rajhans, Madhura Girish, Gauthami Nonavinakere Prakash, Abhijith Viswanathan
+15. **[NutriVision+ AI-Powered Food Recognition & Nutrition Estimation](/assets/posters/15.pdf)**, Siddhant Rajhans, Madhura Girish, Gauthami Nonavinakere Prakash, Abhijith Viswanathan
 
-16. **Distilling LLMs into Small Models for Medical Reasoning**, Congcong Xu, Shoaib Ahmed, Anil Telaprolu
+16. **[Distilling LLMs into Small Models for Medical Reasoning](/assets/posters/16.pdf)**, Congcong Xu, Shoaib Ahmed, Anil Telaprolu
 
-17. **Real-Time Earthquake Detection using CNN + LSTM**, Karthikeya Vengala
+17. **[Real-Time Earthquake Detection using CNN + LSTM](/assets/posters/17.pdf)**, Karthikeya Vengala
 
 18. **Financial Default Prediction using ML Explainability**, Anandha Ragaven Ravi
 
@@ -76,4 +76,4 @@ permalink: /posters/
 
 33. **Can Phonetics Predict Grammar? A Cross-Linguistic Machine Learning Study**, Tirth Joshi
 
-34. **Hybrid CNN architecture integrating InceptionV3 and MobileNetV3 for brain tumour detection**, Puspita Chowdhury
+34. **Hybrid CNN Architecture Integrating InceptionV3 and MobileNetV3 for Brain Tumour Detection**, Puspita Chowdhury
