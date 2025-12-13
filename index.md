@@ -189,8 +189,6 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
 
 ## Moments at DuckAI 2025 Fall
 
-Moments from the event
-
 ![](/_images/photos/DSC_7134.JPG)
 
 ![](/_images/photos/DSC_7183.JPG)
