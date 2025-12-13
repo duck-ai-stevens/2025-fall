@@ -28,7 +28,7 @@ permalink: /posters/
 
 9. **[Implementation and Evaluation of AI-Generated Image Detection Systems](/assets/posters/9.pdf)**, Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan
 
-10. **[🥈 2nd Place Award][DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition](/assets/posters/10.pdf)**, Drishti Parekh, Eden Charles, Meetkumar Gajera
+10. **[🥈 2nd Place Award] [DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition](/assets/posters/10.pdf)**, Drishti Parekh, Eden Charles, Meetkumar Gajera
 
 11. **[AIShield: A Preprocessing Defence Layer for Detecting Manipulated Inputs](/assets/posters/11.pdf)**, Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans
 
