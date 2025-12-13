@@ -192,52 +192,52 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
     <h2>Moments from the event</h2>
     <div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_7134.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_7134.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_7183.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_7183.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_7460.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_7460.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_7584.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_7584.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_7822.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_7822.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_8211.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_8211.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_8277.jpeg" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_8277.jpeg" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_8668.jpeg" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_8668.jpeg" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_8693.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_8693.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_8895.jpeg" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_8895.jpeg" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_8920.jpeg" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_8920.jpeg" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_8986.jpeg" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_8986.jpeg" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_9061.jpeg" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_9061.jpeg" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_9094.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_9094.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_9108.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_9108.JPG" class="image--cover">
         </div>
         <div class="image--cover-container">
-            <img src="/_images/photos/DSC_9131.JPG" class="image--cover">
+            <img src="{{ site.baseurl }}/_images/photos/DSC_9131.JPG" class="image--cover">
         </div>
     </div>
 </div>
