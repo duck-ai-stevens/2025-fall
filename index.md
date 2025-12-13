@@ -188,7 +188,58 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
 * Workshop date: June 13, 2025 -->
 
 ## Moments at DuckAI 2025 Fall
-<!-- ![](/assets/) -->
-
+<div class="profile-pic-gallary">
+    <h2>Moments from the event</h2>
+    <div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_7134.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_7183.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_7460.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_7584.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_7822.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_8211.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_8277.jpeg" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_8668.jpeg" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_8693.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_8895.jpeg" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_8920.jpeg" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_8986.jpeg" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_9061.jpeg" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_9094.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_9108.JPG" class="image--cover">
+        </div>
+        <div class="image--cover-container">
+            <img src="/_images/photos/DSC_9131.JPG" class="image--cover">
+        </div>
+    </div>
+</div>
 
 More photos can be found [here](https://stevens0-my.sharepoint.com/:f:/g/personal/rwei7_stevens_edu/IgAr-c2O2JX2TZXyMlm_ZPd2AUkDZUhaSVO7oYZoXtQjRyw?e=Znl9Rb)
