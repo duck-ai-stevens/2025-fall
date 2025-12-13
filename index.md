@@ -48,7 +48,7 @@ Following the strong momentum and community engagement demonstrated during [Duck
 
 This one-day event is organized by the [Center for Innovative Computing and Networked Systems (iCNS)](https://www.stevens.edu/icns-center-for-innovative-computing-and-networked-systems) and the [Department of Electrical and Computer Engineering](https://www.stevens.edu/school-engineering-science/departments/electrical-computer-engineering) at Stevens. It aims to bring together industry partners, researchers, faculty, and students to discuss recent developments in AI techniques and applications. The symposium features two technical sessions with invited talks, along with a poster & demo session where around 30 student teams will showcase their AI projects for Fall’25. The event is open to the public with free registration.
 
-<div style="background: linear-gradient(135deg, #ff6b6b, #ffa500); 
+<!-- <div style="background: linear-gradient(135deg, #ff6b6b, #ffa500); 
             color: white; 
             padding: 15px 20px; 
             border-radius: 8px; 
@@ -70,7 +70,7 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
     Join Zoom Meeting
   </a>
 
-</div>
+</div> -->
 
 
 <!-- ## Event Agenda
@@ -94,11 +94,11 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
 - 2:30 PM - Award announcement
 - 3:00 PM - Adjourn -->
 
-Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2kscme9qP74CBHA)
+<!-- Registration link: [https://forms.gle/2A2kscme9qP74CBHA](https://forms.gle/2A2kscme9qP74CBHA)
 
 You can also register by scanning the QR code:
 
-<img src="_images/qr-code.svg" alt="QR code" style="width: 200px; max-width: 100%; display: block; margin: 1em 0;" />
+<img src="_images/qr-code.svg" alt="QR code" style="width: 200px; max-width: 100%; display: block; margin: 1em 0;" /> -->
 
 ## Invited Speakers
 
@@ -185,4 +185,8 @@ You can also register by scanning the QR code:
 * PER Camera ready: June 30, 2025
 * Workshop date: June 13, 2025 -->
 
-<!-- ## Moments at DuckAI 2025 Fall -->
+## Moments at DuckAI 2025 Fall
+<!-- ![](/assets/) -->
+
+
+More photos can be found [here](https://stevens0-my.sharepoint.com/:f:/g/personal/rwei7_stevens_edu/IgAr-c2O2JX2TZXyMlm_ZPd2AUkDZUhaSVO7oYZoXtQjRyw?e=Znl9Rb)
