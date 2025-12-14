@@ -19,6 +19,10 @@ items:
   name: Elite Posters
   icon_class: fa fa-upload
 
+- url: /demos/
+  name: Demos
+  icon_class: fa fa-desktop
+
 # - url: /accepted/
 #   name: Accepted Papers
 #   icon_class: fa fa-check-square
