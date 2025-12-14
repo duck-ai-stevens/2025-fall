@@ -10,7 +10,8 @@ permalink: /posters/
 
 <!-- **Accepted Posters** -->
 
-1. **Traffic Optimization through Collective Intelligence**, Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso [[Demo](/2025-fall/demos/#1-traffic-optimization-through-collective-intelligence)]
+1. **Traffic Optimization through Collective Intelligence**, Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso
+[[Poster](/assets/posters/1.pdf)] [[Demo](/2025-fall/demos/#1-traffic-optimization-through-collective-intelligence)]
 
 2. **Efficient AI: Maximizing Throughput Without Diminishing Accuracy in Real-time In-Situ Computer Vision**, Andre Colon, Khushi Pai, Aash Jatin Shah
 
@@ -18,6 +19,7 @@ permalink: /posters/
 [[Poster](/assets/posters/3.pdf)]
 
 4. **On the Compatibility of Adversarial Training and Sparse Training in Vision Transformers**, Jiawang Xu, Zhenting Hu, Haihan Zhang
+[[Poster](/assets/posters/4.pdf)]
 
 5. **Accelerating MOE-based LLM Serving with Serverless Experts**, Hao Wang, Renming Zhang
 [[Poster](/assets/posters/5.pdf)]
@@ -39,10 +41,12 @@ permalink: /posters/
 [[Poster](/assets/posters/11.pdf)]
 
 12. **Mitigating Data Poisoning: Detecting and Removing Malicious Outliers**, Keval Sompura, Max Tuscano, Paras Jadhav
+[[Poster](/assets/posters/12.pdf)]
 
 13. **Multi-Teacher Distillation for Whisper Using a Unified CNN-Transformer Student Encoder**, Guo Zhonghao, Li Huaiyu, Ma Shanming
 
 14. **Statistical learning v.s. Deep learning for Breast Cancer Detection**, Rishi Patel, Malvi Patel, Rishika Pilli, Ishbat Mahmud
+[[Poster](/assets/posters/14.pdf)]
 
 15. **NutriVision+ AI-Powered Food Recognition & Nutrition Estimation**, Siddhant Rajhans, Madhura Girish, Gauthami Nonavinakere Prakash, Abhijith Viswanathan
 [[Poster](/assets/posters/15.pdf)]
@@ -58,6 +62,7 @@ permalink: /posters/
 19. **[🏅 1st Place Award] LLM Powered Agentic Systems and Applications**, Yupeng Cao
 
 20. **[🥉 3rd Place Award] Trustworthy Models and Data**, Sabbir Ujjal
+[[Poster](/assets/posters/20.pdf)]
 
 21. **Extending Preictal Horizons in AI-Driven Seizure Prediction with GNN–Causal Transformer**, Daivarsi Malik
 
