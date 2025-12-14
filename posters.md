@@ -10,7 +10,7 @@ permalink: /posters/
 
 <!-- **Accepted Posters** -->
 
-1. **Traffic Optimization through Collective Intelligence**, Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso
+1. **Traffic Optimization through Collective Intelligence**, Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso [[Demo](/demos/#1-traffic-optimization-through-collective-intelligence)]
 
 2. **Efficient AI: Maximizing Throughput Without Diminishing Accuracy in Real-time In-Situ Computer Vision**, Andre Colon, Khushi Pai, Aash Jatin Shah
 
@@ -32,7 +32,7 @@ permalink: /posters/
 9. **Implementation and Evaluation of AI-Generated Image Detection Systems**, Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan
 [[Poster](/assets/posters/9.pdf)]
 
-10. **🥈 2nd Place Award] DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition**, Drishti Parekh, Eden Charles, Meetkumar Gajera
+10. **[🥈 2nd Place Award] DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition**, Drishti Parekh, Eden Charles, Meetkumar Gajera
 [[Poster](/assets/posters/10.pdf)]
 
 11. **AIShield: A Preprocessing Defence Layer for Detecting Manipulated Inputs**, Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans
@@ -55,9 +55,9 @@ permalink: /posters/
 
 18. **Financial Default Prediction using ML Explainability**, Anandha Ragaven Ravi
 
-19. **🏅 1st Place Award] LLM Powered Agentic Systems and Applications**, Yupeng Cao
+19. **[🏅 1st Place Award] LLM Powered Agentic Systems and Applications**, Yupeng Cao
 
-20. **🥉 3rd Place Award] Trustworthy Models and Data**, Sabbir Ujjal
+20. **[🥉 3rd Place Award] Trustworthy Models and Data**, Sabbir Ujjal
 
 21. **Extending Preictal Horizons in AI-Driven Seizure Prediction with GNN–Causal Transformer**, Daivarsi Malik
 
