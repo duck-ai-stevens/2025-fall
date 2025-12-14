@@ -10,84 +10,186 @@ permalink: /posters/
 
 <!-- **Accepted Posters** -->
 
-1. **Traffic Optimization through Collective Intelligence**, Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso
-[[Poster](/assets/posters/1.pdf)] [[Demo](/2025-fall/demos/#1-traffic-optimization-through-collective-intelligence)]
+<div style="margin-bottom: 1.5em;">
+  <div>1. <strong>Traffic Optimization through Collective Intelligence</strong></div>
+  <div style="margin-left: 1.2em;">Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso</div>
+  <div style="margin-left: 1.2em;">[<a href="/assets/posters/1.pdf">Poster</a>] [<a href="/2025-fall/demos/#1-traffic-optimization-through-collective-intelligence">Demo</a>]</div>
+</div>
 
-2. **Efficient AI: Maximizing Throughput Without Diminishing Accuracy in Real-time In-Situ Computer Vision**, Andre Colon, Khushi Pai, Aash Jatin Shah
+<div style="margin-bottom: 1.5em;">
+  <div>2. <strong>Efficient AI: Maximizing Throughput Without Diminishing Accuracy in Real-time In-Situ Computer Vision</strong></div>
+  <div style="margin-left: 1.2em;">Andre Colon, Khushi Pai, Aash Jatin Shah</div>
+</div>
 
-3. **Statistical Learning vs Deep Learning in Financial Forecasting**, Katrina Kling, Neha Sridhara, Sirisha Manjunathan
-[[Poster](/assets/posters/3.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>3. <strong>Statistical Learning vs Deep Learning in Financial Forecasting</strong></div>
+  <div style="margin-left: 1.2em;">Katrina Kling, Neha Sridhara, Sirisha Manjunathan</div>
+  <div style="margin-left: 1.2em;">[<a href="/assets/posters/3.pdf">Poster</a>]</div>
+</div>
 
-4. **On the Compatibility of Adversarial Training and Sparse Training in Vision Transformers**, Jiawang Xu, Zhenting Hu, Haihan Zhang
-[[Poster](/assets/posters/4.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>4. <strong>On the Compatibility of Adversarial Training and Sparse Training in Vision Transformers</strong></div>
+  <div style="margin-left: 1.2em;">Jiawang Xu, Zhenting Hu, Haihan Zhang</div>
+  <div style="margin-left: 1.2em;">[<a href="/assets/posters/4.pdf">Poster</a>]</div>
+</div>
 
-5. **Accelerating MOE-based LLM Serving with Serverless Experts**, Hao Wang, Renming Zhang
-[[Poster](/assets/posters/5.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>5. <strong>Accelerating MOE-based LLM Serving with Serverless Experts</strong></div>
+  <div style="margin-left: 1.2em;">Hao Wang, Renming Zhang</div>
+  <div style="margin-left: 1.2em;">[<a href="/assets/posters/5.pdf">Poster</a>]</div>
+</div>
 
-6. **Music Similarity Searching via ML Transformers**, Randeep Chahal, Lohith Mula, Ishaan Bhalodia, Joy Khera
+<div style="margin-bottom: 1.5em;">
+  <div>6. <strong>Music Similarity Searching via ML Transformers</strong></div>
+  <div style="margin-left: 1.2em;">Randeep Chahal, Lohith Mula, Ishaan Bhalodia, Joy Khera</div>
+</div>
 
-7. **Transformer Evaluation for Blackbox Data Security**, Matthew Werner, Michael Moschello, Daniel Storms
+<div style="margin-bottom: 1.5em;">
+  <div>7. <strong>Transformer Evaluation for Blackbox Data Security</strong></div>
+  <div style="margin-left: 1.2em;">Matthew Werner, Michael Moschello, Daniel Storms</div>
+</div>
 
-8. **CelebroSense (Stroke Detection)**, Harsh Adivrekar, Arshi Amrishkumar Patel, Shreyash Wakode
-[[Poster](/assets/posters/8.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>8. <strong>CelebroSense (Stroke Detection)</strong></div>
+  <div style="margin-left: 1.2em;">Harsh Adivrekar, Arshi Amrishkumar Patel, Shreyash Wakode</div>
+  <div style="margin-left: 1.2em;">[<a href="/assets/posters/8.pdf">Poster</a>]</div>
+</div>
 
-9. **Implementation and Evaluation of AI-Generated Image Detection Systems**, Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan
-[[Poster](/assets/posters/9.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>9. <strong>Implementation and Evaluation of AI-Generated Image Detection Systems</strong></div>
+  <div style="margin-left: 1.2em;">Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan</div>
+  <div style="margin-left: 1.2em;">[<a href="/assets/posters/9.pdf">Poster</a>]</div>
+</div>
 
-10. **[🥈 2nd Place Award] DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition**, Drishti Parekh, Eden Charles, Meetkumar Gajera
-[[Poster](/assets/posters/10.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>10. <strong>[🥈 2nd Place Award] DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition</strong></div>
+  <div style="margin-left: 1.85em;">Drishti Parekh, Eden Charles, Meetkumar Gajera</div>
+  <div style="margin-left: 1.85em;">[<a href="/assets/posters/10.pdf">Poster</a>]</div>
+</div>
 
-11. **AIShield: A Preprocessing Defence Layer for Detecting Manipulated Inputs**, Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans
-[[Poster](/assets/posters/11.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>11. <strong>AIShield: A Preprocessing Defence Layer for Detecting Manipulated Inputs</strong></div>
+  <div style="margin-left: 1.85em;">Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans</div>
+  <div style="margin-left: 1.85em;">[<a href="/assets/posters/11.pdf">Poster</a>]</div>
+</div>
 
-12. **Mitigating Data Poisoning: Detecting and Removing Malicious Outliers**, Keval Sompura, Max Tuscano, Paras Jadhav
-[[Poster](/assets/posters/12.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>12. <strong>Mitigating Data Poisoning: Detecting and Removing Malicious Outliers</strong></div>
+  <div style="margin-left: 1.85em;">Keval Sompura, Max Tuscano, Paras Jadhav</div>
+  <div style="margin-left: 1.85em;">[<a href="/assets/posters/12.pdf">Poster</a>]</div>
+</div>
 
-13. **Multi-Teacher Distillation for Whisper Using a Unified CNN-Transformer Student Encoder**, Guo Zhonghao, Li Huaiyu, Ma Shanming
+<div style="margin-bottom: 1.5em;">
+  <div>13. <strong>Multi-Teacher Distillation for Whisper Using a Unified CNN-Transformer Student Encoder</strong></div>
+  <div style="margin-left: 1.85em;">Guo Zhonghao, Li Huaiyu, Ma Shanming</div>
+</div>
 
-14. **Statistical learning v.s. Deep learning for Breast Cancer Detection**, Rishi Patel, Malvi Patel, Rishika Pilli, Ishbat Mahmud
-[[Poster](/assets/posters/14.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>14. <strong>Statistical learning v.s. Deep learning for Breast Cancer Detection</strong></div>
+  <div style="margin-left: 1.85em;">Rishi Patel, Malvi Patel, Rishika Pilli, Ishbat Mahmud</div>
+  <div style="margin-left: 1.85em;">[<a href="/assets/posters/14.pdf">Poster</a>]</div>
+</div>
 
-15. **NutriVision+ AI-Powered Food Recognition & Nutrition Estimation**, Siddhant Rajhans, Madhura Girish, Gauthami Nonavinakere Prakash, Abhijith Viswanathan
-[[Poster](/assets/posters/15.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>15. <strong>NutriVision+ AI-Powered Food Recognition & Nutrition Estimation</strong></div>
+  <div style="margin-left: 1.85em;">Siddhant Rajhans, Madhura Girish, Gauthami Nonavinakere Prakash, Abhijith Viswanathan</div>
+  <div style="margin-left: 1.85em;">[<a href="/assets/posters/15.pdf">Poster</a>]</div>
+</div>
 
-16. **Distilling LLMs into Small Models for Medical Reasoning**, Congcong Xu, Shoaib Ahmed, Anil Telaprolu
-[[Poster](/assets/posters/16.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>16. <strong>Distilling LLMs into Small Models for Medical Reasoning</strong></div>
+  <div style="margin-left: 1.85em;">Congcong Xu, Shoaib Ahmed, Anil Telaprolu</div>
+  <div style="margin-left: 1.85em;">[<a href="/assets/posters/16.pdf">Poster</a>]</div>
+</div>
 
-17. **Real-Time Earthquake Detection using CNN + LSTM**, Karthikeya Vengala
-[[Poster](/assets/posters/17.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>17. <strong>Real-Time Earthquake Detection using CNN + LSTM</strong></div>
+  <div style="margin-left: 1.85em;">Karthikeya Vengala</div>
+  <div style="margin-left: 1.85em;">[<a href="/assets/posters/17.pdf">Poster</a>]</div>
+</div>
 
-18. **Financial Default Prediction using ML Explainability**, Anandha Ragaven Ravi
+<div style="margin-bottom: 1.5em;">
+  <div>18. <strong>Financial Default Prediction using ML Explainability</strong></div>
+  <div style="margin-left: 1.85em;">Anandha Ragaven Ravi</div>
+</div>
 
-19. **[🏅 1st Place Award] LLM Powered Agentic Systems and Applications**, Yupeng Cao
+<div style="margin-bottom: 1.5em;">
+  <div>19. <strong>[🏅 1st Place Award] LLM Powered Agentic Systems and Applications</strong></div>
+  <div style="margin-left: 1.85em;">Yupeng Cao</div>
+</div>
 
-20. **[🥉 3rd Place Award] Trustworthy Models and Data**, Sabbir Ujjal
-[[Poster](/assets/posters/20.pdf)]
+<div style="margin-bottom: 1.5em;">
+  <div>20. <strong>[🥉 3rd Place Award] Trustworthy Models and Data</strong></div>
+  <div style="margin-left: 1.85em;">Sabbir Ujjal</div>
+  <div style="margin-left: 1.85em;">[<a href="/assets/posters/20.pdf">Poster</a>]</div>
+</div>
 
-21. **Extending Preictal Horizons in AI-Driven Seizure Prediction with GNN–Causal Transformer**, Daivarsi Malik
+<div style="margin-bottom: 1.5em;">
+  <div>21. <strong>Extending Preictal Horizons in AI-Driven Seizure Prediction with GNN–Causal Transformer</strong></div>
+  <div style="margin-left: 1.85em;">Daivarsi Malik</div>
+</div>
 
-22. **Autonomous Racing Smart Car**, Kedarnath Naik
+<div style="margin-bottom: 1.5em;">
+  <div>22. <strong>Autonomous Racing Smart Car</strong></div>
+  <div style="margin-left: 1.85em;">Kedarnath Naik</div>
+</div>
 
-23. **NeuroSecure: AI Security Framework for Seizure Detection**, Karina Berberian
+<div style="margin-bottom: 1.5em;">
+  <div>23. <strong>NeuroSecure: AI Security Framework for Seizure Detection</strong></div>
+  <div style="margin-left: 1.85em;">Karina Berberian</div>
+</div>
 
-24. **Optimizing a Cloud-Based Visual Anomaly Detection Model for Edge Deployments**, Nithin Reddy Venna
+<div style="margin-bottom: 1.5em;">
+  <div>24. <strong>Optimizing a Cloud-Based Visual Anomaly Detection Model for Edge Deployments</strong></div>
+  <div style="margin-left: 1.85em;">Nithin Reddy Venna</div>
+</div>
 
-25. **Triple Threat LLM Optimization: Exploring the Efficiency Gains of Combining Multiple LLM Optimization Techniques for Inference**, Amudhan Subramanian Manivasagam
+<div style="margin-bottom: 1.5em;">
+  <div>25. <strong>Triple Threat LLM Optimization: Exploring the Efficiency Gains of Combining Multiple LLM Optimization Techniques for Inference</strong></div>
+  <div style="margin-left: 1.85em;">Amudhan Subramanian Manivasagam</div>
+</div>
 
-26. **Hybrid Knowledge-Augmented Multimodal Architecture for Art Captioning**, Yi-Wen Lin
+<div style="margin-bottom: 1.5em;">
+  <div>26. <strong>Hybrid Knowledge-Augmented Multimodal Architecture for Art Captioning</strong></div>
+  <div style="margin-left: 1.85em;">Yi-Wen Lin</div>
+</div>
 
-27. **Adaptive GPU Optimization for Deep Learning Workloads Using Evolutionary Algorithms**, Sameer Rajendra
+<div style="margin-bottom: 1.5em;">
+  <div>27. <strong>Adaptive GPU Optimization for Deep Learning Workloads Using Evolutionary Algorithms</strong></div>
+  <div style="margin-left: 1.85em;">Sameer Rajendra</div>
+</div>
 
-28. **Bridging Machine Learning and Embedded Systems: Edge AI Experiments for Undergraduate Education**, Saipranith Oku, ZhengLong Xu, and Dr. Mahmoud Al-Quzwini
+<div style="margin-bottom: 1.5em;">
+  <div>28. <strong>Bridging Machine Learning and Embedded Systems: Edge AI Experiments for Undergraduate Education</strong></div>
+  <div style="margin-left: 1.85em;">Saipranith Oku, ZhengLong Xu, and Dr. Mahmoud Al-Quzwini</div>
+</div>
 
-29. **Mapping the Future of AI Infrastructure: A Data-Driven Approach to Data Center Siting**, Atif Qadir, Titir Talukder, Xirui Yu, Shivam Raj
+<div style="margin-bottom: 1.5em;">
+  <div>29. <strong>Mapping the Future of AI Infrastructure: A Data-Driven Approach to Data Center Siting</strong></div>
+  <div style="margin-left: 1.85em;">Atif Qadir, Titir Talukder, Xirui Yu, Shivam Raj</div>
+</div>
 
-30. **Detecting Deceptive and AI-Generated Reviews Using RAG and XG-Boost: The Amazon Review Classifier (ARC)**, Jeevan Suresh, Ram Kasuru, Kashish Shah
+<div style="margin-bottom: 1.5em;">
+  <div>30. <strong>Detecting Deceptive and AI-Generated Reviews Using RAG and XG-Boost: The Amazon Review Classifier (ARC)</strong></div>
+  <div style="margin-left: 1.85em;">Jeevan Suresh, Ram Kasuru, Kashish Shah</div>
+</div>
 
-31. **Automated Tower Defense: Using Reinforcement Learning to Complete Bloons Tower Defense**, Jack Griffith, Christopher Alessandri, Sahar Vacnich
+<div style="margin-bottom: 1.5em;">
+  <div>31. <strong>Automated Tower Defense: Using Reinforcement Learning to Complete Bloons Tower Defense</strong></div>
+  <div style="margin-left: 1.85em;">Jack Griffith, Christopher Alessandri, Sahar Vacnich</div>
+</div>
 
-32. **Efficient AI for Maritime Object Detection**, Bilal Anwar, Liam Hua, Malik Tragna
+<div style="margin-bottom: 1.5em;">
+  <div>32. <strong>Efficient AI for Maritime Object Detection</strong></div>
+  <div style="margin-left: 1.85em;">Bilal Anwar, Liam Hua, Malik Tragna</div>
+</div>
 
-33. **Can Phonetics Predict Grammar? A Cross-Linguistic Machine Learning Study**, Tirth Joshi
+<div style="margin-bottom: 1.5em;">
+  <div>33. <strong>Can Phonetics Predict Grammar? A Cross-Linguistic Machine Learning Study</strong></div>
+  <div style="margin-left: 1.85em;">Tirth Joshi</div>
+</div>
 
-34. **Hybrid CNN Architecture Integrating InceptionV3 and MobileNetV3 for Brain Tumour Detection**, Puspita Chowdhury
+<div style="margin-bottom: 1.5em;">
+  <div>34. <strong>Hybrid CNN Architecture Integrating InceptionV3 and MobileNetV3 for Brain Tumour Detection</strong></div>
+  <div style="margin-left: 1.85em;">Puspita Chowdhury</div>
+</div>
