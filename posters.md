@@ -14,23 +14,29 @@ permalink: /posters/
 
 2. **Efficient AI: Maximizing Throughput Without Diminishing Accuracy in Real-time In-Situ Computer Vision**, Andre Colon, Khushi Pai, Aash Jatin Shah
 
-3. **[Statistical Learning vs Deep Learning in Financial Forecasting](/assets/posters/3.pdf)**, Katrina Kling, Neha Sridhara, Sirisha Manjunathan
+3. **Statistical Learning vs Deep Learning in Financial Forecasting**, Katrina Kling, Neha Sridhara, Sirisha Manjunathan
+[[Poster](/assets/posters/3.pdf)]
 
 4. **On the Compatibility of Adversarial Training and Sparse Training in Vision Transformers**, Jiawang Xu, Zhenting Hu, Haihan Zhang
 
-5. **[Accelerating MOE-based LLM Serving with Serverless Experts](/assets/posters/5.pdf)**, Hao Wang, Renming Zhang
+5. **Accelerating MOE-based LLM Serving with Serverless Experts**, Hao Wang, Renming Zhang
+[[Poster](/assets/posters/5.pdf)]
 
 6. **Music Similarity Searching via ML Transformers**, Randeep Chahal, Lohith Mula, Ishaan Bhalodia, Joy Khera
 
 7. **Transformer Evaluation for Blackbox Data Security**, Matthew Werner, Michael Moschello, Daniel Storms
 
-8. **[CelebroSense (Stroke Detection)](/assets/posters/8.pdf)**, Harsh Adivrekar, Arshi Amrishkumar Patel, Shreyash Wakode
+8. **CelebroSense (Stroke Detection)**, Harsh Adivrekar, Arshi Amrishkumar Patel, Shreyash Wakode
+[[Poster](/assets/posters/8.pdf)]
 
-9. **[Implementation and Evaluation of AI-Generated Image Detection Systems](/assets/posters/9.pdf)**, Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan
+9. **Implementation and Evaluation of AI-Generated Image Detection Systems**, Olajide Yusuf, Benjamin Ulrich, Chinmayee Mayekar, Neha Darawan
+[[Poster](/assets/posters/9.pdf)]
 
-10. **[🥈 2nd Place Award] [DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition](/assets/posters/10.pdf)**, Drishti Parekh, Eden Charles, Meetkumar Gajera
+10. **🥈 2nd Place Award] DEMI: A Reinforcement Learning Agent that Embodies Collective Intelligence to Minimize Attrition**, Drishti Parekh, Eden Charles, Meetkumar Gajera
+[[Poster](/assets/posters/10.pdf)]
 
-11. **[AIShield: A Preprocessing Defence Layer for Detecting Manipulated Inputs](/assets/posters/11.pdf)**, Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans
+11. **AIShield: A Preprocessing Defence Layer for Detecting Manipulated Inputs**, Mahera Sultana Shaik, Hafsah Afreen, Aaron Nathans
+[[Poster](/assets/posters/11.pdf)]
 
 12. **Mitigating Data Poisoning: Detecting and Removing Malicious Outliers**, Keval Sompura, Max Tuscano, Paras Jadhav
 
@@ -38,17 +44,20 @@ permalink: /posters/
 
 14. **Statistical learning v.s. Deep learning for Breast Cancer Detection**, Rishi Patel, Malvi Patel, Rishika Pilli, Ishbat Mahmud
 
-15. **[NutriVision+ AI-Powered Food Recognition & Nutrition Estimation](/assets/posters/15.pdf)**, Siddhant Rajhans, Madhura Girish, Gauthami Nonavinakere Prakash, Abhijith Viswanathan
+15. **NutriVision+ AI-Powered Food Recognition & Nutrition Estimation**, Siddhant Rajhans, Madhura Girish, Gauthami Nonavinakere Prakash, Abhijith Viswanathan
+[[Poster](/assets/posters/15.pdf)]
 
-16. **[Distilling LLMs into Small Models for Medical Reasoning](/assets/posters/16.pdf)**, Congcong Xu, Shoaib Ahmed, Anil Telaprolu
+16. **Distilling LLMs into Small Models for Medical Reasoning**, Congcong Xu, Shoaib Ahmed, Anil Telaprolu
+[[Poster](/assets/posters/16.pdf)]
 
-17. **[Real-Time Earthquake Detection using CNN + LSTM](/assets/posters/17.pdf)**, Karthikeya Vengala
+17. **Real-Time Earthquake Detection using CNN + LSTM**, Karthikeya Vengala
+[[Poster](/assets/posters/17.pdf)]
 
 18. **Financial Default Prediction using ML Explainability**, Anandha Ragaven Ravi
 
-19. **[🏅 1st Place Award] LLM Powered Agentic Systems and Applications**, Yupeng Cao
+19. **🏅 1st Place Award] LLM Powered Agentic Systems and Applications**, Yupeng Cao
 
-20. **[🥉 3rd Place Award] Trustworthy Models and Data**, Sabbir Ujjal
+20. **🥉 3rd Place Award] Trustworthy Models and Data**, Sabbir Ujjal
 
 21. **Extending Preictal Horizons in AI-Driven Seizure Prediction with GNN–Causal Transformer**, Daivarsi Malik
 
