@@ -10,7 +10,7 @@ permalink: /posters/
 
 <!-- **Accepted Posters** -->
 
-1. **Traffic Optimization through Collective Intelligence**, Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso [[Demo](/demos/#1-traffic-optimization-through-collective-intelligence)]
+1. **Traffic Optimization through Collective Intelligence**, Vikram Prashant Gajendragadkar, Si Min Qiang, Gabriel Reynoso [[Demo](/2025-fall/demos/#1-traffic-optimization-through-collective-intelligence)]
 
 2. **Efficient AI: Maximizing Throughput Without Diminishing Accuracy in Real-time In-Situ Computer Vision**, Andre Colon, Khushi Pai, Aash Jatin Shah
 
