@@ -172,6 +172,7 @@ permalink: /posters/
   <div style="flex-grow: 1;">
     <div><strong>[🏅 1st Place Award] LLM Powered Agentic Systems and Applications</strong></div>
     <div>Yupeng Cao</div>
+    <div>[<a href="/2025-fall/assets/posters/19.pdf">Poster</a>]</div>
   </div>
 </div>
 
