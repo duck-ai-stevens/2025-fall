@@ -24,6 +24,7 @@ permalink: /posters/
   <div style="flex-grow: 1;">
     <div><strong>Efficient AI: Maximizing Throughput Without Diminishing Accuracy in Real-time In-Situ Computer Vision</strong></div>
     <div>Andre Colon, Khushi Pai, Aash Jatin Shah</div>
+    <div>[<a href="/2025-fall/assets/posters/2.pdf">Poster</a>]</div>
   </div>
 </div>
 
@@ -59,6 +60,7 @@ permalink: /posters/
   <div style="flex-grow: 1;">
     <div><strong>Music Similarity Searching via ML Transformers</strong></div>
     <div>Randeep Chahal, Lohith Mula, Ishaan Bhalodia, Joy Khera</div>
+    <div>[<a href="/2025-fall/assets/posters/6.pdf">Poster</a>]</div>
   </div>
 </div>
 
