@@ -177,6 +177,13 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
 - Hao (Lucas) Wang
 - Xuan Li
 
+## Poster Judge Committee:
+
+- [Yue Ning](https://yue-ning.github.io)
+- Jinrui Cao
+- Jiarui Li(https://sites.google.com/view/jiaruili/)
+- [Joseph Helsing](https://www.stevens.edu/profile/jhelsing)
+
 <!-- ## Special Thanks -->
 
 <!--
