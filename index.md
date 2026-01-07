@@ -227,5 +227,3 @@ This one-day event is organized by the [Center for Innovative Computing and Netw
 ![](/_images/photos/DSC_9108.JPG)
 
 ![](/_images/photos/DSC_9131.JPG)
-
-More photos can be found [here](https://stevens0-my.sharepoint.com/:f:/g/personal/rwei7_stevens_edu/IgAr-c2O2JX2TZXyMlm_ZPd2AUkDZUhaSVO7oYZoXtQjRyw?e=Znl9Rb)
